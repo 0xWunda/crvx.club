@@ -11,7 +11,7 @@
     --font-body: 'Inter', sans-serif;
     --font-gothic: 'UnifrakturMaguntia', serif;
     --transition-smooth: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
-    --glow-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+    --glow-shadow: 0 0 20px rgba(255, 255, 255, 0.11);
 }
 
 * {
